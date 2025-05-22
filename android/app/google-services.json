@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758287984889",
+    "project_id": "cocuk-beslenme-f12bf",
+    "storage_bucket": "cocuk-beslenme-f12bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758287984889:android:201729efa3314f27b8da28",
+        "android_client_info": {
+          "package_name": "com.example.cocuk_beslenme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOuhTVFbMMemmB3KrZ2QzbOpLhXVIg6Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
